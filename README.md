@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Zelos
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on web-development
-- 📫 How to reach me idk lmao
+
 
 <!---
 ZL3-Tanmoy/ZL3-Tanmoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
